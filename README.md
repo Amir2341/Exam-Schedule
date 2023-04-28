@@ -14,9 +14,9 @@ pnpm dev
 
 Open [http://localhost:3000/examschedule](http://localhost:3000/examschedule) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `pages/examschedule/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/examschedule](http://localhost:3000/api/examschedule). This endpoint can be edited in `pages/api/hello.ts`.
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/examschedule](http://localhost:3000/api/examschedule). This endpoint can be edited in `pages/api/examschedule/index.ts`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
